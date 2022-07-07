@@ -59427,9 +59427,9 @@ n=A.cd(q,A.nU("Benvenuta/o nel portfolio di Silvano Norberti",m?3:1,q,k),B.m,q,q
 l=A.c9(q,20,q)
 o=b.P(o).f
 k=m?1:0.6
-s=m?700:270
+s=m?650:270
 r=A.eE(B.l,q,22)
-o=A.cd(q,A.nU("Se hai raggiunto questo sito, vuol dire che sei davvero interessata/o a conoscere che tipo di persona sono, e per questo gi\xe0 ti ringrazio!\nBando ai convenevoli, io sono una persona con una infinita passione per il proprio lavoro.\nIo sono un FrontEnd developer, colui che deve rendere l'applicazione una esperienza di piacere e, soprattutto, semplicit\xe0 per l'utente finale, utilizzando tantissimo design e una immensa quantit\xe0 di problem solving.\nL'utente finale, in questo mestiere in particolare, \xe8 molto propenso a fare richieste al limite dell'assurdo, ma si deve essere pronti anche a dare il giusto compromesso e non farsi abbattere.",m?20:15,B.bp,r),B.m,q,q,q,q,s,q,q,q,q,o.a.a*k)
+o=A.cd(q,A.nU("Se hai raggiunto questo sito, vuol dire che sei davvero interessata/o a conoscere che tipo di persona sono, e per questo gi\xe0 ti ringrazio!\nBando ai convenevoli, io sono una persona con una infinita passione per il proprio lavoro.\nIo sono un FrontEnd developer, colui che deve rendere l'applicazione una esperienza di piacere e, soprattutto, semplicit\xe0 per l'utente finale, utilizzando tantissimo design e una immensa quantit\xe0 di problem solving.\nL'utente finale, in questo mestiere in particolare, \xe8 molto propenso a fare richieste al limite dell'assurdo, ma si deve essere pronti anche a dare il giusto compromesso e non farsi abbattere.",m?24:15,B.bp,r),B.m,q,q,q,q,s,q,q,q,q,o.a.a*k)
 k=A.c9(q,40,q)
 s=A.jr("Contattami",q,q,q,q,q,q,q,A.eE(B.l,q,30),q,q,q)
 return A.hB(A.b([p,n,l,o,k,new A.Hr(new A.TD(),q,q,q,A.a9y(q,q,new A.e5(this.gIu(),t.IR),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),B.m,q,!1,new A.dl(B.aO,s,q),q),A.c9(q,40,q)],t.t),B.b4,B.fg)}}
